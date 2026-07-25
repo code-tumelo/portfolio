@@ -11,7 +11,7 @@ export default function Contact() {
             <div className="bg-grid-theme bg-grid absolute inset-0 opacity-40" aria-hidden="true" />
             <div className="contact-card-inner">
               <h2 className="contact-title">
-                Let's work together.
+                Let&apos;s work together.
               </h2>
               <p className="contact-lede">
                 Currently taking on one or two new engagements. Tell me
