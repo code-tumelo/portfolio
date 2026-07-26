@@ -15,13 +15,10 @@ export default function Work() {
         <Reveal>
           <div className="section-head">
             <div>
-              <span className="section-kicker">Selected work</span>
-              <h2 className="section-title">Recent case studies.</h2>
+              <span className="section-kicker">PROJECTS</span>
+              <h2 className="section-title">Recent projects.</h2>
             </div>
-            <p className="section-lede">
-              A handful of the products shipped end to end, from schema to
-              interface. Swap these in lib/data.ts with real projects.
-            </p>
+            
           </div>
         </Reveal>
 

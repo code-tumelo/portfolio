@@ -164,7 +164,7 @@ export default function Showcase() {
                     <span className="h-2.5 w-2.5 rounded-full bg-red-400/70" />
                     <span className="h-2.5 w-2.5 rounded-full bg-yellow-400/70" />
                     <span className="h-2.5 w-2.5 rounded-full bg-green-400/70" />
-                    <span className="ml-3 text-[11px] text-white/30">tumelo-dashboard.app</span>
+                    <span className="ml-3 text-[11px] text-white/30">tumelomoletsane.co.za</span>
                   </div>
                   <div className="browser-bezel-body">
                     <div className="flex items-center justify-between">
@@ -173,7 +173,7 @@ export default function Showcase() {
                           Overview
                         </p>
                         <p className="font-display text-lg font-semibold text-white">
-                          Deploy pulse
+                          Deploy project
                         </p>
                       </div>
                       <span className="floating-ui-badge px-3 py-1 text-xs font-semibold text-emerald">
@@ -196,11 +196,11 @@ export default function Showcase() {
                     <div className="grid grid-cols-2 gap-3">
                       <div className="widget-depth p-3.5">
                         <p className="mb-1 text-[11px] text-white/35">Requests / min</p>
-                        <p className="font-display text-xl font-bold text-white">8,204</p>
+                        <p className="font-display text-xl font-bold text-white">203</p>
                       </div>
                       <div className="widget-depth p-3.5">
                         <p className="mb-1 text-[11px] text-white/35">p95 latency</p>
-                        <p className="font-display text-xl font-bold text-white">142ms</p>
+                        <p className="font-display text-xl font-bold text-white">2ms</p>
                       </div>
                     </div>
                   </div>

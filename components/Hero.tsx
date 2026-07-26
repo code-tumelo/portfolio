@@ -12,7 +12,7 @@ export default function Hero() {
 
         
         <Reveal delayMs={160}>
-          <h1 className="hero-title text-silver-matte">Open to new roles and contract work</h1>
+          <h1 className="hero-title text-silver-matte">Open to new roles and projects</h1>
         </Reveal>
 
         <Reveal delayMs={240}>
@@ -29,7 +29,7 @@ export default function Hero() {
               View selected work
             </a>
             <a href="#contact" className="btn-dark w-full sm:w-auto">
-              Start a project &rarr;
+              Start a project 
             </a>
           </div>
         </Reveal>
