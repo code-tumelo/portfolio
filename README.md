@@ -2,13 +2,7 @@
 
 Next.js 14 (App Router) + TypeScript (strict) + Tailwind CSS.
 
-This build matches the dark, violet glow visual language from the
-original reference sketch (film grain, glow headlines, the premium
-depth card with a tilting dashboard mockup, the skills marquee),
-rebuilt as reusable Next.js components and named CSS classes instead
-of a single static HTML file.
-
-## Run it
+1. Run it
 
 ```
 npm install
@@ -16,8 +10,7 @@ npm run dev
 ```
 
 Then open http://localhost:3000.
-
-## Where things live
+Where things live
 
 - `app/globals.css`: every design token (the RGB triplets at the top:
   `--bg`, `--ink`, `--violet`, `--indigo`, `--emerald`) and every named

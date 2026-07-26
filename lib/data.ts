@@ -83,8 +83,8 @@ export const stack: string[] = [
   "Docker",
   "AWS",
   "Prisma",
-  "Playwright",
-  "Redis",
+  "PHP",
+  "ASP.NET",
 ];
 
 export type ProcessStep = {
@@ -112,7 +112,7 @@ export const processSteps: ProcessStep[] = [
 ];
 
 export const socials = [
-  { label: "GitHub", href: "#" },
+  { label: "GitHub", href: "https://github.com/code-tumelo/" },
   { label: "LinkedIn", href: "#" },
   { label: "X", href: "#" },
 ];
